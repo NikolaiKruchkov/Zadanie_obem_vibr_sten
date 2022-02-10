@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\Nikryuchkov\Desktop\Revit\Obem_vibr_sten.dll"</Assembly>		
+		<AddInId>47800959-5D39-46A1-8926-7A0FBA95FE93</AddInId>		
+		<FullClassName>Obem_vibr_sten.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Объем выбранных стен</Text>
+	</AddIn>
+</RevitAddIns>

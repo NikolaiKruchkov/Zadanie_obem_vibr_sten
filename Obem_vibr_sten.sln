@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obem_vibr_sten", "Obem_vibr_sten\Obem_vibr_sten.csproj", "{A3F5ADB0-64A8-4805-B1CC-0C46CE9E61F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3F5ADB0-64A8-4805-B1CC-0C46CE9E61F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F5ADB0-64A8-4805-B1CC-0C46CE9E61F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F5ADB0-64A8-4805-B1CC-0C46CE9E61F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F5ADB0-64A8-4805-B1CC-0C46CE9E61F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9908C871-4AC7-497A-84A7-28B061542E6C}
+	EndGlobalSection
+EndGlobal

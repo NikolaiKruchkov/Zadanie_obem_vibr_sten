@@ -1,0 +1,5 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.1\Obem_vibr_sten\Obem_vibr_sten\bin\Debug\Obem_vibr_sten.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.1\Obem_vibr_sten\Obem_vibr_sten\bin\Debug\Obem_vibr_sten.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.1\Obem_vibr_sten\Obem_vibr_sten\obj\Debug\Obem_vibr_sten.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.1\Obem_vibr_sten\Obem_vibr_sten\obj\Debug\Obem_vibr_sten.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\REVIT API\Задание 3.1\Obem_vibr_sten\Obem_vibr_sten\obj\Debug\Obem_vibr_sten.pdb
